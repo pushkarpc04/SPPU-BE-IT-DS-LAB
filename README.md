@@ -42,14 +42,3 @@ To complete these assignments, you'll need:
 - Java 8
 - OpenMP
 
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to explore, learn, and have fun! 📚
-
-## ✉️ Contact
-
-Got questions or suggestions? Reach out to us:
-
-- Email: Ranjeet - contact [dot] ranjeetkumbhar [at] gmail [dot] com
-
-Feel the excitement? Dive into each assignment's directory for detailed instructions and code. Let's embark on this thrilling journey together! 🚀🔥
